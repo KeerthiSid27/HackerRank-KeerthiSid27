@@ -1,1 +1,1 @@
-This is the README file
+This is all about HackerRank java coding details
